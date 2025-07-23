@@ -3,5 +3,5 @@ Display Skin Minecraft In Web, For TyroServ
 
 
 ```bash
-http://vps214.tyrolium.fr/renderSkin/?skin=<url-skin> &cape=<url-cape>
+https://render-skin.tyroserv.fr/?skin=<url-skin> &cape=<url-cape>
 ```
